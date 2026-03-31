@@ -21,11 +21,11 @@ languages:
     languageName: English
     title: Aladdin Taijan 
     weight: 1
-  ar:
-    languageCode: ar
-    languageName: العربية
-    title: علاء الدين طيجن
-    weight: 2
+  #ar:
+   # languageCode: ar
+   # languageName: العربية
+   # title: علاء الدين طيجن
+   # weight: 2
 # default language for the content
 defaultContentLanguage: en
 
