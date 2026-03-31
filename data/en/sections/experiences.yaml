@@ -1,0 +1,142 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+# Your experiences
+experiences:
+- company:
+    name: Roaa Tech
+    location: Dubai, UAE
+    overview: Advanced information technology and digital solutions.
+  positions:
+  - designation: Citizen Developer & System Administrator
+    start: Sep 2024
+    responsibilities:
+    - Developed internal business applications using the Apptomator platform to streamline business processes and improve operational efficiency.
+    - Built automated workflows to reduce manual tasks and enhance productivity.
+    - Designed and managed data forms and structured lists to organize business information and request management.
+    - Documented applications and operational processes to ensure maintainability, knowledge transfer, and future enhancements.
+    - Assisted with system administration tasks including user account management and access control.
+    - Supported system maintenance and monitored performance to ensure stable system operations.
+    - Provided technical support and troubleshooting for internal users.
+    - Monitored system services and infrastructure performance using Prometheus and Grafana to ensure reliability and early issue detection.
+    - Managed and monitored backup processes for virtual machines hosted on Proxmox VE.
+    - Implemented monitoring dashboards and alerts to track system health and service availability.
+
+- company:
+    name: Emlak ve Danışmanlık Group
+    location: Istanbul, Türkiye
+    overview: A real estate and consultancy group based in Istanbul.
+  positions:
+  - designation: Technical Consultant & System Administrator
+    start: Jan 2017
+    end: Sep 2024
+    responsibilities:
+    - Design network infrastructures, create architecture diagrams and documentation to migrate to AWS.
+    - Manage the web hosting service, monitoring its operation, and checking security rules.
+    - Manage PCs and Domain System.
+    - Provide companies with information technology support to operate more efficiently, implementing hardware and software solutions, enhancing IT systems, and resolving technical issues.
+    - Designed a network and supervised the implementation and installation of passive components.
+    - Installed and configured Windows Server 2012 with Domain Controller (Active Directory, DNS) and DHCP, join PCs to the domain.
+    - Configured and installed Office 365.
+
+- company:
+    name: Roaa Tech
+    location: Istanbul, Türkiye
+    overview: A technology company providing educational management systems and cloud solutions.
+  positions:
+  - designation: System Administrator and Developer (Shams System)
+    start: Jan 2019
+    end: Dec 2024
+    responsibilities:
+    - Responsible for the Shams school's management system.
+    - Involved in developing and maintaining the system.
+    - Design and implement AWS cloud solutions tailored to specific customer requirements, ensuring scalability, reliability, and performance.
+    - Monitor daily operations and ensure compliance with SLAs and IT security standards.
+    - Design network infrastructures, create architecture diagrams and documentation.
+    - Develop and maintain CI/CD pipelines using Jenkins, Docker, and Kubernetes.
+    - Automate infrastructure provisioning and configuration management with Terraform and Ansible.
+    - Collaborate with development and operations teams to streamline deployments and enhance system performance.
+    - Communicate with key stakeholders and management teams to align technical solutions with business goals.
+
+- company:
+    name: Khibrat Academy
+    location: Istanbul, Türkiye
+    overview: An educational academy providing e-learning and training services.
+  positions:
+  - designation: Technical Consultant
+    start: Jan 2019
+    end: Dec 2024
+    responsibilities:
+    - Finding and implementing E-learning system, which includes online sessions, learning management system and E-exam system.
+    - Design network infrastructures, create architecture diagrams and documentation to migrate to AWS.
+
+- company:
+    name: Tzu Chi Foundation
+    location: Istanbul, Türkiye
+    overview: An international humanitarian organization providing educational services.
+  positions:
+  - designation: Systems Administrator
+    start: Jan 2015
+    end: Dec 2017
+    responsibilities:
+    - Responsible for PCs and networks at El-Manahil schools.
+    - Developed a web application to manage student's information.
+
+- company:
+    name: ITTIHAD Private University (IPU)
+    location: Damascus, Syria
+    overview: A private university in Damascus, Syria.
+  positions:
+  - designation: Lecturer
+    start: Jan 2015
+    end: Dec 2015
+    responsibilities:
+    - Taught Web Programming course.
+    - Taught Data Mining course.
+  - designation: Systems Administrator
+    start: Jan 2015
+    end: Dec 2015
+    responsibilities:
+    - Responsible for network management.
+    - SIS (Student Information System) server management and database management.
+
+- company:
+    name: Syrian Telecommunication Institute
+    location: Damascus, Syria
+    overview: A telecommunication training institute in Damascus.
+  positions:
+  - designation: Teacher and Project Supervisor
+    start: Jan 2008
+    end: Dec 2012
+    responsibilities:
+    - Teacher of A+ course.
+    - Project supervisor of a SharePoint project.
+    - Project supervisor of a Dynamic Website project 2011.
+    - Project supervisor of a Network design project.
+
+- company:
+    name: Syrian Telecommunication Establishment
+    location: Damascus, Syria
+    overview: The national telecommunication provider of Syria.
+  positions:
+  - designation: Senior Network System Administrator
+    start: Jan 2010
+    end: Dec 2015
+    responsibilities:
+    - Administration of Data Center containing Mail system, Domain Controller system, DNS & DHCP system, Routers and Wireless devices.
+  - designation: Network and Computer System Administrator
+    start: Jan 2008
+    end: Dec 2010
+    responsibilities:
+    - Monitoring network (switches, wireless) and operating systems.
+    - Operated and configured the system in servers and PCs.
+  - designation: Help Desk Technician
+    start: Jan 2007
+    end: Dec 2008
+    responsibilities:
+    - Providing the first level support for computers and network at the company.

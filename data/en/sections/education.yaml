@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: Bachelor of Information Technology (BIT)
+  icon: fa-graduation-cap
+  timeframe: 2007-2011
+  institution:
+    name: Syrian Virtual University
+  grade:
+    scale: Percentage
+    achieved: 67.74
+    outOf: 100
+  custonSections:
+    - name: Graduation Project
+      content: "Automation of Hospital — passed with 91%."
+
+- name: Technical Diploma
+  icon: fa-university
+  timeframe: 2005-2007
+  institution:
+    name: Syrian Telecommunication Institute
+  grade:
+    scale: Percentage
+    achieved: 76.4
+    outOf: 100
+  custonSections:
+    - name: Graduation Project
+      content: "Web site of telecommunication institute in Damascus — passed with 88%."

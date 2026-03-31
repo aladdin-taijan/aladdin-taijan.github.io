@@ -1,0 +1,75 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 9
+  showOnNavbar: true
+
+# Your accomplishments
+accomplishments:
+- name: AWS Certified Solutions Architect – Associate
+  organization:
+    name: Amazon Web Services
+    url: https://aws.amazon.com
+
+- name: AWS Certified Developer – Associate
+  organization:
+    name: Amazon Web Services
+    url: https://aws.amazon.com
+
+- name: AWS Fundamentals Specialization
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+
+- name: Files and Directories in the Linux Filesystem
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+
+- name: Learning How to Learn
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+
+- name: Data Encryption using AWS KMS (From UST)
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+
+- name: Web Programming for Everybody
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+
+- name: Python for Everybody
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+
+- name: Set up Your Dev Environment for LAMP Web Developers on Linux
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+
+- name: AWS S3 Basic
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+
+- name: MCITP (Windows Server 2008)
+  organization:
+    name: Microsoft
+
+- name: CCNA
+  organization:
+    name: Cisco
+
+- name: Broad Band Network
+  organization:
+    name: WRI (Wuhan Research Institute for Post and Telecommunication - China)
+
+- name: Advanced Network
+  organization:
+    name: NIIT Institute (India - New Delhi)

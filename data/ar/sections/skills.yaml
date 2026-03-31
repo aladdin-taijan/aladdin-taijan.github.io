@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Kubernetes
+  logo: /images/sections/skills/Kubernetes.png
+  summary: "Hands-on experience deploying and managing applications on Kubernetes, with exposure to CRDs and custom resources through labs and projects."
+  #url: "https://kubernetes.io/"
+
+- name: Infrastructure
+  logo: /images/sections/skills/proxmox.png
+  summary: "Infrastructure background spanning on-prem virtualization with Proxmox/LXC and cloud foundations on AWS, with a strong focus on reliability and automation"
+  #url: "https://golang.org/"
+
+- name: Jenkins, GitHub Actions
+  logo: /images/sections/skills/cicd.png
+  summary: "Building and learning CI/CD pipelines with a strong focus on automation, reliability, and cloud-based workflows"
+  #url: "https://golang.org/"
+
+- name: Terraform
+  logo: /images/sections/skills/terraform.png
+  summary: "Designed and provisioned a complete AWS infrastructure for an e-commerce application as part of a technical hiring task, using Infrastructure as Code principles"
+  #url: "https://golang.org/"
+
+- name: Cloud Computing (AWS-focused)
+  #logo: /images/sections/skills/cloud.png
+  summary: "Practical experience designing and deploying AWS-based cloud infrastructure."
+
+- name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "Containerizing applications using Docker, with experience in multi-stage and multi-architecture builds."
+  #url: "https://www.docker.com/"
+
+- name: Prometheus
+  logo: /images/sections/skills/promethus.png
+  summary: "Hands-on experience setting up Prometheus metrics, working with PromQL, Alertmanager, and basic custom exporters."
+  #url: "https://prometheus.io/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/gitversion.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  #url: "https://git-scm.com/"

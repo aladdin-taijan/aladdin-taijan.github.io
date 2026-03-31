@@ -1,0 +1,21 @@
+# some information about you
+name: "Aladdin Taijan"
+nickname: "Aladdin"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/MyAvatar.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "aladdin.taijan@gmail.com"
+  #phone: "+0123456789"
+  github: aladdin-taijan
+  linkedin: aladdintaijan
+  
+
+# some summary about what you do
+summary:
+  - I am a Cloud Engineer
+  - I am a Devops
+  - I love servers
+  - I love to work with Kubernetes
+  - I love to work with some fun projects
